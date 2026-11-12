@@ -10,7 +10,7 @@ public class CalculatorTest {
 
         App obj = new App();
 
-        int result = obj.add(4, 6);
+        int result = obj.add(4, 5);
 
         assertEquals(result, 10);
 
